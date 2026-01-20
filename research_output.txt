@@ -1,0 +1,26 @@
+--- Research Output ---
+Timestamp: 2026-01-13 16:22:25
+
+{
+"topic": "Southeast Asia Population",
+"summary": "Southeast Asia is the geographical southeastern region of Asia, consisting of the countries of Brunei, Cambodia, East Timor, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The total population of Southeast Asia is around 655 million as of 2022, with the most populous countries being Indonesia, the Philippines, and Vietnam.",
+"sources": ["https://en.wikipedia.org/wiki/Southeast_Asia"],
+"tools_used": ["wikipedia"]
+}
+
+--- Research Output ---
+Timestamp: 2026-01-13 16:25:10
+
+{
+  "topic": "Valorant Champions Tour winners",
+  "summary": "The Valorant Champions Tour (VCT) is a global competitive esports tournament series for the video game Valorant organised by Riot Games. The VCT culminates in the Valorant Champions tournament, where the world's best teams compete for the ultimate title. The winners of the Valorant Champions tournament from 2021 to 2025 have etched their names in esports history.",
+  "sources": [
+    "https://valorantesports.com/",
+    "https://liquipedia.net/valorant/Valorant_Champions_Tour"
+  ],
+  "tools_used": [
+    "search",
+    "wikipedia"
+  ]
+}
+
